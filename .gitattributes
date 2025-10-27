@@ -1,0 +1,8 @@
+# Ignore platform-specific and auto-generated files in GitHub language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+node_modules/** linguist-vendored
+*.json linguist-vendored
+*.gradle linguist-vendored
+*.rb linguist-vendored
+*.swift linguist-vendored
