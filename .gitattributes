@@ -1,4 +1,4 @@
-# Ignore platform-specific and auto-generated files in GitHub language stats
+# Hide native platform and auto-generated files from GitHub language stats
 android/** linguist-vendored
 ios/** linguist-vendored
 node_modules/** linguist-vendored
@@ -6,3 +6,6 @@ node_modules/** linguist-vendored
 *.gradle linguist-vendored
 *.rb linguist-vendored
 *.swift linguist-vendored
+*.xml linguist-vendored
+*.plist linguist-vendored
+*.properties linguist-vendored
